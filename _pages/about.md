@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a cognitive neuroscientist exploring the intricate relationships between brain function, memory processes, and musical cognition through advanced neuroimaging techniques. My research leverages computational models and innovative methodologies to uncover the neural mechanisms that underpin memory formation and learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work sits at the interdisciplinary crossroads of neuroscience, cognitive psychology, and music theory, employing fMRI and other neuroimaging tools to investigate how musical stimuli influence memory consolidation and retrieval. I'm particularly interested in how music scaffolds learning complex event series or rules, as well as how music could modulate human emotional memory. Working across multiple research topics, I aim to develop music interventions to improve memory and modulate emotion in both healthy and aging populations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my bachelor's degree from Boston University, studying psychology and neuroscience, followed by my master's and PhD in cognitive brain science from Georgia Institute of Technology. My doctoral research focused on using music to improve visual sequential memory and modulate emotional memory. Through this work, I discovered interesting brain network reconfiguration patterns and enhanced memory processing during learning with musical stimuli.
+
+Currently, I'm investigating additional applications of music in improving memory functions, including spatial memory and associative learning. My goal is to explore music's potential in various settings including educational, clinical, and commercial environments.
+
+Beyond my research, I'm passionate about exercise, traveling, and fashion.
